@@ -1,0 +1,9 @@
+[submodule "API_3_FRONT"]
+	path = API_3_FRONT
+	url = https://github.com/equipe-javali/API_3_FRONT
+[submodule "API_3_BACK"]
+	path = API_3_BACK
+	url = https://github.com/equipe-javali/API_3_BACK
+[submodule "API_3_BD"]
+	path = API_3_BD
+	url = https://github.com/equipe-javali/API_3_BD
