@@ -1,13 +1,13 @@
 <span id="topo">
 <h1 align='center'>
-:pig: EQUIPE JAVALI :pig:
+🐗 EQUIPE JAVALI 🐗
 
 APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 3º SEMESTRE DSM - 2024
 </h1>
 
-<h1 align='center'> :zap: CTLR A :zap: </h1>
+<h1 align='center'> ⌨️ CTLR A ⌨️ </h1>
 
 ## :mag_right: Índice
 <p align='center'>
