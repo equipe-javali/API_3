@@ -14,7 +14,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     <a href="#objetivo">Objetivo</a> | 
     <a href="#requisitos">Requisitos</a> | 
     <a href="#relatorios">Relatórios</a> |
-    <a href="#backlog">Backlog total</a> |
+    <a href="#backlog">Backlog da sprint</a> |
     <a href="#tecnologias">Tecnologias</a> | 
     <a href="#equipe">Equipe</a> 
 </p>
