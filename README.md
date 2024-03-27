@@ -55,7 +55,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 <span id='backlog'>
 
-<h2>📑 Backlog total: </h2>
+<h2>📑 Backlog da Sprint: </h2>
 
 <!-- | ID  | Sprint |    Enquanto     |                                                        Desejo                                                        | Prioridade |                                             Critério de aceitação                                              |
 | :-: | :----: | :-------------: | :------------------------------------------------------------------------------------------------------------------: |:----------:| :------------------------------------------------------------------------------------------------------------: | -->
