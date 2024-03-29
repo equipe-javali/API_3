@@ -12,7 +12,6 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 ## :mag_right: Índice
 <p align='center'>
     <a href="#objetivo">Objetivo</a> | 
-    <a href="#requisitos">Requisitos</a> | 
     <a href="#relatorios">Relatórios</a> |
     <a href="#backlog">Backlog total</a> |
     <a href="#tecnologias">Tecnologias</a> | 
@@ -26,16 +25,6 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     O projeto visa faciliar o manugeio dos ativos de uma empresa,
     sendo acompnhar quem atualmente possui o ativo, acompanhar manutenções do ativo e entre outros.
 </p>
-<span id='requisitos'>
-
-## :clipboard: Requisitos
-### Funcionais
-:pushpin: Cadastros de ativos, administradores e destinatários;
-
-### Não Funcionais:
-:pushpin: Manual de usuário online;
-
-→ [Voltar ao topo](#topo)
 
 <span id='relatorios'>
 
