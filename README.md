@@ -46,7 +46,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 <h2>📑 Backlog total: </h2>
 
-<img src="doc/assets/ProductBacklog.png" width="550px">
+<img src="doc/assets/ProductBacklog.png" width="750px">
 
 <h2>Backlog das sprints</h2>
 
