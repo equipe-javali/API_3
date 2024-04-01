@@ -46,7 +46,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 <h2>📑 Backlog total: </h2>
 
-[CLIQUE AQUI PARA ABRIR O BACKLOG TOTAL](https://github.com/equipe-javali/API_3/blob/main/doc/Product%20Backlog.pdf)
+<img src="doc/assets/ProductBacklog.png" width="550px">
 
 <h2>Backlog das sprints</h2>
 
