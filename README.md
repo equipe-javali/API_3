@@ -22,8 +22,8 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :dart: Objetivo
 <p align='justify'>
-    O projeto visa faciliar o manugeio dos ativos de uma empresa,
-    sendo acompnhar quem atualmente possui o ativo, acompanhar manutenções do ativo e entre outros.
+    O projeto visa facilitar o manuseio dos ativos de uma empresa,
+    sendo acompanhar quem atualmente possui o ativo, acompanhar manutenções do ativo, entre outros.
 </p>
 
 <span id='relatorios'>
