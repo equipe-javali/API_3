@@ -17,6 +17,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     <a href="#backlog">Backlog da sprint</a> |
     <a href="#dor">DoR da sprint</a> |
     <a href="#dod">DoD da sprint</a> |
+    <a href="#mvp">MVP da sprint</a> |
 </p>
 
 <span id='objetivo'>
@@ -55,5 +56,13 @@ O DoR (Definição de pronto) dessa sprint é a seguinte lista:
 <h2>📑 DoD da Sprint: </h2>
 
 O DoD (Definição de Feito) desta sprint é um programa que dê para criar ativos e destinatários assim como uma lista e poder deletar estes.
+
+<span id='mvp'>
+
+<h2>📑 MVP da Sprint: </h2>
+
+Aqui se encontra o video do MVP da sprint.
+
+https://github.com/equipe-javali/API_3/assets/110677265/de47804d-c418-416c-8181-f546f2285e07
 
 → [Voltar ao topo](#topo)
