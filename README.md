@@ -33,8 +33,8 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 <!-- [ver entrega](link da sprint correspondente) -->
 | Sprint |  Entrega   |            Status           | Relatório |
 |:------:|:----------:|:---------------------------:|:---------:|
-| 01     | 14/04/2024 | :construction: Em progresso | --        |
-| 02     | 05/05/2023 |  Não iniciada | --        |
+| 01     | 14/04/2024 | ✔️ Finalizada | [Clique aqui](https://github.com/equipe-javali/API_3/tree/Sprint-1) |
+| 02     | 05/05/2023 | :construction: Em progresso | --        |
 | 03     | 26/05/2023 |  Não iniciada | --        |
 | 04     | 16/06/2023 |  Não iniciada | --        |
 
@@ -58,7 +58,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 | Sprint |  Backlog da sprint   |
 |:------:|:----------:|
 | 01     | [Clique aqui](https://github.com/equipe-javali/API_3/tree/Sprint-1?tab=readme-ov-file#backlog) | 
-| 02     | Não iniciada | 
+| 02     | [Clique aqui](https://github.com/equipe-javali/API_3/tree/Sprint-2?tab=readme-ov-file#backlog) | 
 | 03     | Não iniciada | 
 | 04     | Não iniciada | 
 
