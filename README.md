@@ -23,17 +23,23 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :dart: Objetivo
 <p align='justify'>
-    Fazer as telas e as funcionalidades de cadastro, listagem e edição de ativos e destinatários.
+    Fazer as telas e as funcionalidades para leitura de todos os dados e atualização de ativos e destinatários;  
+    Fazer as telas e as funcionalidades para cadastro de manutenção de ativos;  
+    Fazer a tela de login, com sistema de autenticação.
+    
 </p>
 <span id='requisitos'>
 
 ## :clipboard: Requisitos
 ### Funcionais
-:pushpin: Cadastro, leitura e deleção de ativos;
-:pushpin: Cadastro, leitura e deleção de destinatários.
+:pushpin: Leitura e atualização de todos os dados de ativos;  
+:pushpin: Leitura e atualização de todos os dados de usuários;  
+:pushpin: Fazer login ao sistema, com sistema de autenticação;  
+:pushpin: Cadastrar a manutenção de ativos.
+
 
 ### Não Funcionais:
-:pushpin: Fazer o modelo de dados.
+:pushpin: Adicionar responsividade ao sistema.
 
 → [Voltar ao topo](#topo)
 
@@ -41,19 +47,24 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 <h2>📑 Backlog da Sprint: </h2>
 
-<img src="doc/assets/Backlog - Sprint 1.png" width="750px">
+<img src="doc/assets/Product Backlog - Sprint 2.png" width="750px">
 
 <span id='dor'>
 
 <h2>📑 DoR da Sprint: </h2>
 
-O DoR (Definição de pronto) dessa sprint é a seguinte lista:
-* Wireframe
+O DoR (Definição de pronto) dessa sprint é a seguinte lista:  
+- O sistema deve fornecer uma interface de usuário que permita a leitura de todos os dados de ativos e destinatários. Além disso, deve ser possível atualizar as informações desses ativos e destinatários;  
+- O sistema deve fornecer uma interface de usuário que permita o cadastro de manutenções de ativos. Os usuários devem ser capazes de inserir informações sobre a manutenção, incluindo a data, a descrição do trabalho realizado e o ativo ao qual a manutenção se refere;  
+- O sistema deve fornecer uma tela de login para os usuários. Esta tela deve incluir campos para o nome de usuário e senha. Além disso, o sistema deve incluir um sistema de autenticação que verifique as credenciais fornecidas pelo usuário e permita ou negue o acesso com base na verificação.
+
+
 
 <span id='dod'>
 
 <h2>📑 DoD da Sprint: </h2>
 
-O DoD (Definição de Feito) desta sprint é um programa que dê para criar ativos e destinatários assim como uma lista e poder deletar estes.
+O DoD (Definição de Feito)  
+- Deverá atender ao critérios de aceitação referentes às User Stories 07, 08, 09, 10, 11 e 14, conforme backlog da Sprint juntado acima e o [Wireframe](./doc/wireframe.pdf)  .
 
 → [Voltar ao topo](#topo)
