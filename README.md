@@ -49,8 +49,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 ## :clipboard: Requisitos NÃO Funcionais
 :pushpin: Manual do Usuário   
 :pushpin: Software Web e Multiusuário  
-:pushpin: Sistema Responsivo  
-:pushpin: Serviços do tipo REST   
+:pushpin: Sistema Responsivo   
 :pushpin: Desenvolver o back-end com microserviços e o front-end com SPA  
 
 
