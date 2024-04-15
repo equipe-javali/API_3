@@ -24,14 +24,16 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :dart: Objetivo
 <p align='justify'>
-    Fazer as telas e as funcionalidades de cadastro, listagem e edição de ativos e destinatários.
+    Fazer as telas e as funcionalidades de cadastro e listagem de ativos e destinatários, possibilitando a associação entre eles.
 </p>
 <span id='requisitos'>
 
 ## :clipboard: Requisitos
 ### Funcionais
-:pushpin: Cadastro, leitura e deleção de ativos;
-:pushpin: Cadastro, leitura e deleção de destinatários.
+:pushpin: Cadastro, leitura e deleção de ativos;  
+:pushpin: Cadastro, leitura e deleção de destinatários;  
+:pushpin: Associar ativo ao usuário.
+
 
 ### Não Funcionais:
 :pushpin: Fazer o modelo de dados.
@@ -42,14 +44,16 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 <h2>📑 Backlog da Sprint: </h2>
 
-<img src="doc/assets/Backlog - Sprint 1.png" width="750px">
+<img src="doc/assets/Product Backlog-Sprint 1.png" width="750px">
 
 <span id='dor'>
 
 <h2>📑 DoR da Sprint: </h2>
 
-O DoR (Definição de pronto) dessa sprint é a seguinte lista:
-* Wireframe
+O DoR (Definição de pronto) dessa sprint é a seguinte lista:  
+[Wireframe](./doc/wireframe.pdf)  
+[Modelo de dados]([modelo/Modelo.jpg](https://github.com/equipe-javali/API_3_BD/blob/c71be02a49da7153fb7501485f06babed1ce7ff9/modelo/Modelo.jpg))
+
 
 <span id='dod'>
 
