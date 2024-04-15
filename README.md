@@ -42,11 +42,17 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 <span id='sprints'>
 
-<span id='backlog'>
+## :clipboard: Requisitos Funcionais
 
-<h2>📑 Backlog total: </h2>
+<img src="doc/assets/Product Backlog.png" width="750px">
 
-<img src="doc/assets/ProductBacklog.png" width="750px">
+## :clipboard: Requisitos NÃO Funcionais
+:pushpin: Manual do Usuário   
+:pushpin: Software Web e Multiusuário  
+:pushpin: Sistema Responsivo  
+:pushpin: Serviços do tipo REST   
+:pushpin: Desenvolver o back-end com microserviços e o front-end com SPA  
+
 
 <h2>Backlog das sprints</h2>
 
