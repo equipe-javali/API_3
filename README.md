@@ -52,7 +52,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 O DoR (Definição de pronto) dessa sprint é a seguinte lista:  
 [Wireframe](./doc/wireframe.pdf)  
-[Modelo de dados]([modelo/Modelo.jpg](https://github.com/equipe-javali/API_3_BD/blob/c71be02a49da7153fb7501485f06babed1ce7ff9/modelo/Modelo.jpg))
+[Modelo de dados](https://github.com/equipe-javali/API_3_BD/blob/c71be02a49da7153fb7501485f06babed1ce7ff9/modelo/Modelo.jpg)
 
 
 <span id='dod'>
