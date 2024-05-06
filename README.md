@@ -43,7 +43,6 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 <h2>📑 Backlog da Sprint: </h2>
 
-<img src="" width="750px">
 
 <span id='dor'>
 
