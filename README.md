@@ -31,18 +31,19 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :clipboard: Requisitos
 ### Funcionais
-
-
+:pushpin: Visualização do histórico de cada ativo;
+:pushpin: Envio de notificação ao usuário com datas pré-definidas
+:pushpin: Filtragem dos ativos com base em diferentes critérios
 
 ### Não Funcionais:
-
+:pushpin: Responsividade.
 
 → [Voltar ao topo](#topo)
 
 <span id='backlog'>
 
 <h2>📑 Backlog da Sprint: </h2>
-
+<img src="doc/assets/Backlog - Sprint 3.jpg" width="750px">
 
 <span id='dor'>
 
