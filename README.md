@@ -31,8 +31,10 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :clipboard: Requisitos
 ### Funcionais
-:pushpin: Visualização do histórico de cada ativo;
-:pushpin: Envio de notificação ao usuário com datas pré-definidas
+:pushpin: Visualização do histórico de cada ativo;  
+
+:pushpin: Envio de notificação ao usuário com datas pré-definidas;  
+
 :pushpin: Filtragem dos ativos com base em diferentes critérios
 
 ### Não Funcionais:
@@ -50,7 +52,9 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 <h2>📑 DoR da Sprint: </h2>
 
 O DoR (Definição de pronto) dessa sprint é a seguinte lista:  
-
+- O sistema deve fornecer uma interface de usuário que permita acesso ao histórico de cada ativo de forma clara e organizada, com detalhes de data, hora e modificação. Deverá, ainda, possuir filtros por tipo de alteração, data e usuário;     
+- O sistema deve ser capaz de enviar notificações automáticas para os usuários quando um ativo estiver próximo de sua expiração, devolução ou necessidade de manutenção. As notificações deverão fornecer informações com nome, localização e usuário do ativo, bem como a data do evento futuro a que se refere;
+- O sistema deve possuir filtros por tipo de ativo, localização e usuário;   
 
 
 
@@ -59,5 +63,6 @@ O DoR (Definição de pronto) dessa sprint é a seguinte lista:
 <h2>📑 DoD da Sprint: </h2>
 
 O DoD (Definição de Feito)  
+- Deverá atender ao critérios de aceitação referentes às User Stories 12, 15 e 16, conforme backlog da Sprint juntado acima e o [Wireframe](./doc/WireframeSprint3.pdf)  .
 
 → [Voltar ao topo](#topo)
