@@ -17,6 +17,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     <a href="#backlog">Backlog da sprint</a> |
     <a href="#dor">DoR da sprint</a> |
     <a href="#dod">DoD da sprint</a> |
+    <a href="#mvp">MVP da sprint</a> |
 </p>
 
 <span id='objetivo'>
@@ -66,5 +67,17 @@ O DoR (Definição de pronto) dessa sprint é a seguinte lista:
 
 O DoD (Definição de Feito)  
 - Deverá atender ao critérios de aceitação referentes às User Stories 07, 08, 09, 10, 11 e 14, conforme backlog da Sprint juntado acima e o [Wireframe](./doc/wireframe.pdf)  .
+
+→ [Voltar ao topo](#topo)
+
+<span id='mvp'>
+
+<h2>📑 MVP da Sprint: </h2>
+
+Aqui se encontra o video do MVP da sprint.
+
+
+https://github.com/equipe-javali/API_3/assets/110677265/4b922f04-c3ca-44a4-8469-448bac4ba361
+
 
 → [Voltar ao topo](#topo)
