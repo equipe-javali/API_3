@@ -32,14 +32,17 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 
 ### Não Funcionais:
-:pushpin: Responsividade.
+:pushpin: Responsividade  
+:pushpin: Manual do usuário
+
 
 → [Voltar ao topo](#topo)
 
 <span id='backlog'>
 
 <h2>📑 Backlog da Sprint: </h2>
-<img src="" width="750px">
+<img src="doc/assets/Product Backlog - Sprint 4.png" width="750px">
+
 
 <span id='dor'>
 
@@ -54,6 +57,6 @@ O DoR (Definição de pronto) dessa sprint é a seguinte lista:
 <h2>📑 DoD da Sprint: </h2>
 
 O DoD (Definição de Feito)  
-- Deverá atender ao critérios de aceitação referentes às User Stories 12, 15 e 16, conforme backlog da Sprint juntado acima e o 
+- Deverá atender ao critérios de aceitação referentes às User Stories 17 e 18, conforme backlog da Sprint juntado acima e o 
 
 → [Voltar ao topo](#topo)
