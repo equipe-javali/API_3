@@ -63,7 +63,7 @@ O DoR (Definição de pronto) dessa sprint é a seguinte lista:
 <h2>📑 DoD da Sprint: </h2>
 
 O DoD (Definição de Feito)  
-- Deverá atender ao critérios de aceitação referentes às User Stories 17 e 18, conforme backlog da Sprint juntado acima e o [Wireframe](./doc/Wireframe4.pdf).
+- Deverá atender ao critérios de aceitação referentes às User Stories 17 e 18, conforme backlog da Sprint juntado acima e o [Wireframe](./doc/wireframe4.pdf).
 - A documentação do usuário sobre como usar o sistema deverá estar disponível.
 
 → [Voltar ao topo](#topo)
