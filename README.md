@@ -30,6 +30,10 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 ## :clipboard: Requisitos
 ### Funcionais
 
+:pushpin: Desenvolver uma interface para visualização de relatórios;
+:pushpin: Permitir anexar arquivos como nota fiscal e imagem.
+
+
 
 ### Não Funcionais:
 :pushpin: Responsividade  
@@ -49,6 +53,8 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 <h2>📑 DoR da Sprint: </h2>
 
 O DoR (Definição de pronto) dessa sprint é a seguinte lista:   
+- O sistema deve fornecer uma interface de usuário que permita visualizar os relatórios, permitindo a seleação de parâmetros específicos, como perído e tipo de ativo, permitindo a exportação para o formato Excel;     
+- O sistema deve permitir anexar diferentes tipos de documentos (ex: notas fiscais, fotos).
 
 
 
@@ -57,6 +63,7 @@ O DoR (Definição de pronto) dessa sprint é a seguinte lista:
 <h2>📑 DoD da Sprint: </h2>
 
 O DoD (Definição de Feito)  
-- Deverá atender ao critérios de aceitação referentes às User Stories 17 e 18, conforme backlog da Sprint juntado acima e o 
+- Deverá atender ao critérios de aceitação referentes às User Stories 17 e 18, conforme backlog da Sprint juntado acima e o [Wireframe](./doc/Wireframe4.pdf).
+- A documentação do usuário sobre como usar o sistema deverá estar disponível.
 
 → [Voltar ao topo](#topo)
