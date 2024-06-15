@@ -75,7 +75,7 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 - [Java](https://java.com): Linguagem de programação do backend
 - [Jira](https://www.atlassian.com/software/jira): Organização de tarefas
 - [PostgreSQL](https://www.postgresql.org/): Banco de dados
-- [Supabase](https://supabase.com/): Banco PostgreSQL on-line
+- [Supabase](https://supabase.com/): Banco de dados PostgreSQL on-line
 - [React](https://pt-br.reactjs.org/): Framework do frontend
 - [Spring](https://spring.io/): Framework do backend
 
