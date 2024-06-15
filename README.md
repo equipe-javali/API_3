@@ -71,13 +71,13 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 - [Figma](https://www.figma.com): Prototipagem
 - [Git](https://git-scm.com): Versionamento
 - [GitHub](https://github.com/): Armazenamento de código e documentação
-- [TypeScript](https://www.w3schools.com/js/default.asp): Linguagem de programação Front
-- [Java](https://java.com): Linguagem de programação de Back
+- [TypeScript](https://www.w3schools.com/js/default.asp): Linguagem de programação do frontend
+- [Java](https://java.com): Linguagem de programação do backend
 - [Jira](https://www.atlassian.com/software/jira): Organização de tarefas
-- [MySQL](https://www.mysql.com/): Banco de dados
-- [NodeJS](https://nodejs.org/): Runtime
-- [React](https://pt-br.reactjs.org/): Framework do Front
-- [Spring](https://spring.io/): Framework do Back
+- [PostgreSQL](https://www.postgresql.org/): Banco de dados
+- [Supabase](https://supabase.com/): Banco PostgreSQL on-line
+- [React](https://pt-br.reactjs.org/): Framework do frontend
+- [Spring](https://spring.io/): Framework do backend
 
 → [Voltar ao topo](#topo)  
 <span id="equipe">
