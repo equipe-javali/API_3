@@ -47,6 +47,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 ## :clipboard: Requisitos Funcionais
 
 <img src="doc/assets/Product Backlog.png" width="750px">
+→ [Voltar ao topo](#topo)
 
 ## :clipboard: Requisitos NÃO Funcionais
 :pushpin: Manual do Usuário   
@@ -99,7 +100,7 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 
 1. Instalar Java: [Download Java](https://www.java.com/download/ie_manual.jsp)
 2. Clonar o repositório do backend: `git clone https://github.com/equipe-javali/API_3_BACK`
-3. Editar o arquivo application.properties com sua senha do Postgres (alterar a porta e o usuário, se necessário)
+3. Editar o arquivo application.properties na raiz do repositório do Backend com sua senha do Postgres (alterar a porta e o usuário, se necessário)
 4. Inserir esse arquivo na pasta `API_3_BACK\CtrlA\src\main\resources`
 5. Executar o backend usando um IDE como Eclipse ou Intellij (Maven).
 
@@ -114,7 +115,6 @@ Para fazer login no sistema, use os seguintes dados:
 - email: joane@email.com
 - senha: melancia
 
-→ [Voltar ao topo](#topo)
 
 → [Voltar ao topo](#topo)  
 <span id="equipe">
