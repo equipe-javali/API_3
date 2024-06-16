@@ -16,6 +16,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     <a href="#backlog">Backlog total</a> |
     <a href="#sprints">Sprints</a> |
     <a href="#tecnologias">Tecnologias</a> | 
+    <a href="#instrucoes">Tecnologias</a> | 
     <a href="#equipe">Equipe</a> 
 </p>
 
@@ -79,6 +80,41 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 - [Supabase](https://supabase.com/): Banco de dados PostgreSQL on-line
 - [React](https://pt-br.reactjs.org/): Framework do frontend
 - [Spring](https://spring.io/): Framework do backend
+
+→ [Voltar ao topo](#topo)  
+<span id="instrucoes">
+
+## :gear: Instruções para Executar o Projeto
+
+### Banco de Dados
+
+1. Instalar o PostgreSQL: [Download PostgreSQL](https://www.postgresql.org/download/)
+   (Selecionar as Command line tools nas opções de instalação)
+2. Criar um banco de dados vazio: `create database ctrlA_BD;`
+3. Copiar o arquivo ctrlA_BD.sql na raiz do repositório do Banco de Dados: [Repositório do Banco de Dados](https://github.com/equipe-javali/API_3_BD)
+4. Executar esse arquivo para criar as tabelas e alimentar o banco de dados com o comando: `psql -h localhost -p 5432 -d ctrlA_BD -U postgres -f ctrlA_BD.sql`
+5. Inserir a sua senha do Postgres
+
+### Backend 
+
+1. Instalar Java: [Download Java] (https://www.java.com/download/ie_manual.jsp)
+2. Clonar o repositório do backend: `git clone https://github.com/equipe-javali/API_3_BACK`
+3. Editar o arquivo application.properties com sua senha do Postgres (alterar a porta e o usuário, se necessário)
+4. Inserir esse arquivo na pasta `API_3_BACK\CtrlA\src\main\resources`
+5. Executar o backend usando um IDE como Eclipse ou Intellij (Maven).
+
+### Frontend
+
+1. Clonar o repositório do frontend
+2. Acessar a pasta `API_3_FRONT\ctrl-a` e executar os comandos: `npm install` e `npm start`
+
+### Login
+
+Para fazer login no sistema, use os seguintes dados:
+- email: joane@email.com
+- senha: melancia
+
+→ [Voltar ao topo](#topo)
 
 → [Voltar ao topo](#topo)  
 <span id="equipe">
