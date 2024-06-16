@@ -97,7 +97,7 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 
 ### Backend 
 
-1. Instalar Java: [Download Java] (https://www.java.com/download/ie_manual.jsp)
+1. Instalar Java: [Download Java](https://www.java.com/download/ie_manual.jsp)
 2. Clonar o repositório do backend: `git clone https://github.com/equipe-javali/API_3_BACK`
 3. Editar o arquivo application.properties com sua senha do Postgres (alterar a porta e o usuário, se necessário)
 4. Inserir esse arquivo na pasta `API_3_BACK\CtrlA\src\main\resources`
@@ -105,7 +105,7 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 
 ### Frontend
 
-1. Clonar o repositório do frontend
+1. Clonar o repositório do frontend: `git clone https://github.com/equipe-javali/API_3_FRONT`
 2. Acessar a pasta `API_3_FRONT\ctrl-a` e executar os comandos: `npm install` e `npm start`
 
 ### Login
