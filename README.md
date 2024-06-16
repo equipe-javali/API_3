@@ -16,7 +16,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     <a href="#backlog">Backlog total</a> |
     <a href="#sprints">Sprints</a> |
     <a href="#tecnologias">Tecnologias</a> | 
-    <a href="#instrucoes">Tecnologias</a> | 
+    <a href="#instrucoes">Instruções</a> | 
     <a href="#equipe">Equipe</a> 
 </p>
 
