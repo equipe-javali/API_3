@@ -14,6 +14,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
     <a href="#objetivo">Objetivo</a> | 
     <a href="#relatorios">Relatórios</a> |
     <a href="#backlog">Backlog total</a> |
+    <a href="#sprints">Sprints</a> |
     <a href="#tecnologias">Tecnologias</a> | 
     <a href="#equipe">Equipe</a> 
 </p>
@@ -40,7 +41,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 
 → [Voltar ao topo](#topo)
 
-<span id='sprints'>
+<span id='backlog'>
 
 ## :clipboard: Requisitos Funcionais
 
@@ -52,7 +53,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 :pushpin: Sistema Responsivo   
 :pushpin: Desenvolver o back-end com microserviços e o front-end com SPA  
 
-
+<span id='sprints'>
 <h2>Backlog das sprints</h2>
 
 | Sprint |  Backlog da sprint   |
