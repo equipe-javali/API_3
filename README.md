@@ -38,7 +38,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Sprint clicando e
 | 01     | 14/04/2024 | ✔️ Finalizada | [Clique aqui](https://github.com/equipe-javali/API_3/tree/Sprint-1) |
 | 02     | 05/05/2023 | ✔️ Finalizada | [Clique aqui](https://github.com/equipe-javali/API_3/tree/Sprint-2) |
 | 03     | 26/05/2023 | ✔️ Finalizada | [Clique aqui](https://github.com/equipe-javali/API_3/tree/Sprint-3) |
-| 04     | 16/06/2023 | :construction: Em progresso | --        |
+| 04     | 16/06/2023 | ✔️ Finalizada | [Clique aqui](https://github.com/equipe-javali/API_3/tree/Sprint-4) |
 
 → [Voltar ao topo](#topo)
 
