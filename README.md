@@ -23,14 +23,14 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 
 ## :dart: Objetivo
 <p align='justify'>
-    
+Desenvolver e implementar a funcionalidade de visualização e exportação de relatórios, além da capacidade de anexar diferentes tipos de documentos, melhorando a usabilidade e a gestão de informações do sistema para os usuários.
 </p>
 <span id='requisitos'>
 
 ## :clipboard: Requisitos
 ### Funcionais
 
-:pushpin: Desenvolver uma interface para visualização de relatórios;
+:pushpin: Desenvolver uma interface para visualização de relatórios;  
 :pushpin: Permitir anexar arquivos como nota fiscal e imagem.
 
 
@@ -53,7 +53,7 @@ APRENDIZAGEM POR PROJETOS INTEGRADOS
 <h2>📑 DoR da Sprint: </h2>
 
 O DoR (Definição de pronto) dessa sprint é a seguinte lista:   
-- O sistema deve fornecer uma interface de usuário que permita visualizar os relatórios, permitindo a seleação de parâmetros específicos, como perído e tipo de ativo, permitindo a exportação para o formato Excel;     
+- O sistema deve fornecer uma interface de usuário que permita visualizar os relatórios, permitindo a seleção de parâmetros específicos, como período e tipo de ativo, permitindo a exportação para o formato Excel;     
 - O sistema deve permitir anexar diferentes tipos de documentos (ex: notas fiscais, fotos).
 
 
